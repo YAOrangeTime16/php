@@ -55,7 +55,7 @@ Playfair Display, Serif (Subsidiary Texts )
 |Library|Bootstrap|
 |Communication|Slack, Trello, Google Drive|
 |Version Controll|Git, GitHub|
-Localhost Mamp
+|Localhost |Mamp|
 
 
 ### Källor
